@@ -1,1 +1,3 @@
-# Ultrasonicdistancemeasurement
+# Ultrasonic distance measurement
+
+##2 button ,the first button is distance measurement,the another is halt.....
